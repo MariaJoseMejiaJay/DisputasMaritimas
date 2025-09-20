@@ -1,0 +1,231 @@
+.parracre {
+    margin: auto;
+    margin-top: -90px;
+    display: block;
+    width: 60%;
+    padding: 5%;
+    box-sizing: border-box;
+    position: relative;
+    z-index: 2;
+	
+}
+
+.parracre2 {
+    margin: auto;
+    display: block;
+    margin-top: 1px;
+    width: 60%;
+    box-sizing: border-box;
+    background-color:#63a69f;
+    padding: 1%;
+    padding-top: 1px;
+	border-radius: 25px;
+	
+}
+
+.parracre2 p {
+    margin: auto;
+    display: block;
+    width: 70%;
+    text-align: center;
+    font-weight: 600;
+	color: #fff;
+	
+}
+
+.parracre2 img {
+    width: 15%;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 5px;
+	border-radius: 30px;
+}
+
+.primerafrase {
+    color: #000;
+    font-weight: 600 !important;
+    font-size: 1.05em;
+	margin: 5px;
+}
+
+.autora {
+    display: block;
+    font: 20px Neucha,bold;
+	color: #63a69f;
+    font-size: 2em;
+  
+    text-align: center;
+}
+
+
+.autora-footer{
+    display: block;
+    font-family:'Paprika', cursive;
+    font-size: 1.7em;
+    color: #fff;
+    text-align: center;
+}
+
+.parrafos {
+    display: block;
+    font-weight: 300;
+    font-size: 0.92em;
+    line-height: 1.8em;
+    color: #231F20;
+    margin: 0;
+    margin-bottom: 3%;
+	text-align: center;
+	font-family: 'Coming Soon', cursive;
+}
+
+
+/* Aquí empieza Creditos fuentes*/
+
+
+.slide-container{
+    max-width: 1120px;
+    width: 100%;
+    padding: 50px 0;
+    /*margin-left: 120px;*/ /*estaba antes*/
+    margin: 0 auto; 
+    background-color:#B2DFDA;
+    border-radius: 25px;
+    align-content: center;
+        
+}
+
+
+  .slide-content-pescadores, .slide-content-expertos{
+    margin: 0 40px;
+    overflow: hidden;
+    border-radius: 25px;
+  }
+
+
+
+  .card{
+    border-radius: 25px;
+    background-color:#FFF;
+      box-shadow: 0px 3px 10px;
+  }
+  .image-content,
+  .card-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 14px;
+  }
+  .image-content{
+    position: relative;
+    row-gap: 5px;
+    padding: 25px 0;
+  }
+  .overlay{
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #63A69F;
+    border-radius: 25px 25px 0 25px;
+  }
+  .overlay::before,
+  .overlay::after{
+    content: '';
+    position: absolute;
+    right: 0;
+    bottom: -40px;
+    height: 40px;
+    width: 40px;
+    background-color: white;
+  }
+  .overlay::after{
+    border-radius: 0 25px 0 0;
+    background-color:#FFF ;
+  }
+  .card-image{
+    position: relative;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background: #FFF;
+    padding: 3px;
+  }
+  .card-image .card-img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid #63A69F;
+  }
+  .name{
+    font-size: 18px;
+    font-weight: 500;
+    color: #333;font-family: 'Dosis', sans-serif;
+  }
+  
+  .description{
+    font-size: 14px;
+    color: #707070;
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+  }
+  
+  .button{
+    border: none;
+    font-size: 16px;
+    color: #FFF;
+    padding: 8px 16px;
+    background-color: #4070F4;
+    border-radius: 6px;
+    margin: 14px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .button:hover{
+    background: white;
+  }
+  
+  .swiper-navBtn{
+    color: white;
+    transition: color 0.3s ease;
+  }
+  
+  .swiper-navBtn::before, .swiper-navBtn::after{
+    font-size: 35px;
+  }
+  
+  .swiper-button-next.swiper-navBtn{
+      right: 0
+  }
+  
+  .swiper-button-prev.swiper-navBtn{
+      left: 0
+  }
+      
+  .swiper-pagination-bullet{
+    background-color: #FFFFFF;
+    opacity: 1;
+  }
+  .swiper-pagination-bullet-active{
+    background-color:#FFFFFF;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .slide-content-expertos{
+      margin: 0 10px;
+    }
+
+    .slide-content-pescadores{
+      margin: 0 10px;
+    }
+
+    .swiper-navBtn{
+      display: none;
+    }
+  }
+  
+  
+  /* Aquí termina Creditos fuentes*/

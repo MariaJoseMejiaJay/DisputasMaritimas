@@ -1,0 +1,2673 @@
+.font-controls {
+  position: absolute;
+  top: .5em;
+  right: .5em;
+  display: flex;
+  font-size: 1.5em;
+}
+
+.font-control {
+  margin-left: .5em;
+  padding: .25em;
+  border: 1px solid #000;
+  cursor: pointer;
+}
+
+.entry-content {
+    text-align: center;
+    font-weight: bold;
+}
+
+.div2 {
+    padding: 8px 0;
+}
+
+.swpm-forgot-pass-link {
+    display: none;
+}
+
+.swpm-join-us-link {
+    display: none;
+}
+
+.site-branding {
+    display: none;
+} 
+
+h1.entry-title {
+    text-align: center;
+}
+
+@media only screen and (min-width: 482px) {
+    .primary-navigation {
+        position: relative;
+        margin-left: initial;
+        }}
+
+        .headerdos li {
+            list-style: none;
+            display: inline;
+        }
+
+        @media only screen and (min-width: 1100px) {
+
+            .sitios {
+                margin-left: 30px!important;
+                margin-right: 30px!important;
+            }
+
+        }
+
+
+        figure.wp-block-image.size-full {
+            display: table;
+        }
+
+        footer.site-footer {
+          background: #4F71EA;
+          margin-left: 0;
+          max-width: 100%;
+          padding-left: 5%;
+          padding-right: 5%;
+      }
+
+      aside.widget-area {
+         background: #D7DDEB;
+         margin-left: 0;
+         width: 100%;
+         max-width: 100%;
+         padding-left: 10%;
+         padding-right: 10%;
+     }
+
+
+     aside.widget-area p {
+        font-family: "Work Sans", sans-serif;
+        font-size: 0.938rem;
+        color: rgb(43, 75, 128);
+    }
+
+    .padtop30 {
+       padding-top: 30px;
+   }
+
+   hr.wp-block-separator {
+    border-bottom: var(--separator--height) solid transparent;
+    opacity: 1;
+}
+
+.widget-area a {
+    color: var(--footer--color-link);
+    text-decoration: none;
+    text-decoration-style: solid;
+    text-decoration-color: currentColor;
+    font-size: 16px;
+    line-height: 20px;
+    color: rgb(43, 75, 128)!important;
+    padding-top: 40px;
+    font-weight: bold;
+}
+
+.site-footer > .site-info {
+    border-top: 0px solid transparent;
+}
+
+.powered-by p {
+    font-family: "Work Sans", sans-serif;
+    font-size: 0.938rem;
+    line-height: 20px;
+    color: #fff;
+}
+.powered-by a {
+    color: #fff!important;
+    text-decoration: none;
+}
+
+.has-background-white .site a:focus:not(.wp-block-button__link):not(.wp-block-file__button) {
+    background: transparent;
+    color: #000;
+}
+
+.site-header {
+    padding: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.primary-navigation a:hover, .primary-navigation a:link, .primary-navigation a:visited {
+    color: var(--primary-nav--color-link-hover);
+    font-family: "Work Sans", sans-serif;
+    font-size: var(--global--font-size-menu);
+    line-height: 20px;
+    color: #000;
+    text-decoration: none!important;
+}
+
+i.fas.fa-home {
+    color: #4F71EA;
+}
+
+#primary-menu-list .menu-item a:after {
+    font-family: "Font Awesome 5 Free";
+    content: "\f078";
+    display: inline-block;
+    padding-right: 0px;
+    vertical-align: middle;
+    font-weight: 900;
+    font-size: 12px;
+    color: #CCCCCC;
+    padding-left: 2px;
+}
+
+#mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-flyout ul.mega-sub-menu {
+    opacity: 0.95!important; 
+}
+
+
+
+
+.headerdos li {
+   list-style: none;
+}
+
+ul#menu-menu-superior li {
+    list-style: none;
+}
+
+
+.div70 li {
+    float: left;
+}
+
+.n2-font-ce74a14e2dab7dae8cfd9865f92c4844-hover.n2-ss-item-content.n2-ss-text.n2-ow {
+    font-family: "Work Sans", sans-serif!important;
+}
+
+.n2-font-343d27bb0887dfde4c937d97083e1204-hover.n2-ss-item-content.n2-ss-text.n2-ow {
+    font-family: "Work Sans", sans-serif!important;
+    color: #fff!important;
+    font-size: 1.25rem!important;
+    margin-top: 20px;
+}
+
+@media only screen and (min-width: 990px) {
+	
+	.banderas {
+     display: inline-flex;
+     padding: 0;
+     margin: 0;
+     float: right;}
+
+     .div2 {
+         width: 20%;
+         float: left;
+     }
+
+     .div10 {
+         width: 80%;
+         float: left;
+     }
+
+     .padleft20Desk {
+      padding-left: 10%;
+  }
+
+  .headeruno {
+    height: 40px;
+}
+
+.headeruno img {
+    max-height: 20px;
+}
+
+.primary-navigation > div > .menu-wrapper {
+    flex-wrap: initial;
+}
+
+.n2-font-ce74a14e2dab7dae8cfd9865f92c4844-hover.n2-ss-item-content.n2-ss-text.n2-ow {
+    font-size: 2.813rem!important;
+    line-height: 45px!important;
+}
+
+}
+
+
+
+@media only screen and (max-width: 990px) {
+	
+	.div2 {
+        padding-bottom: 20px;
+    }
+
+    .div10 {
+        display: table;
+        width: 100%;
+    }
+
+    ul.list-block {
+        display: inline;
+        position: relative;
+    }
+
+    .headeruno img {
+        max-width: 50%;
+        padding-top: 5%;
+    }
+
+    .banderas img {
+        width: 100%;
+        max-width: 90%;
+    }
+
+    .pb10 {
+        padding-bottom: 15px;
+    }
+
+
+}
+
+
+.headeruno li {
+    font-family: "Work Sans", sans-serif;
+    font-size: 0.938rem;
+    line-height: 20px;
+    color: #fff;
+    list-style: none;
+}
+
+.headeruno li i {
+    color: #fff;
+}
+
+ul.list-block li {
+    float: left;
+    padding-right: 3%;
+}
+
+ul.list-block {
+    padding-top: 2%;
+}
+
+.menu-button-container #primary-mobile-menu {
+    color: #fff;
+}
+
+span.dropdown-icon.open {
+    color: #fff;
+}
+
+span.dropdown-icon.close {
+    color: #000;
+}
+
+span.dropdown-icon {
+    font-family: "Work Sans", sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+    color: #fff;
+    list-style: none;
+}
+
+headeruno, .containersuperior, .site-header {
+	display: none;
+}
+
+.page-id-11 .headeruno, .containersuperior, .site-header {
+    display: block;
+}
+
+.page-id-246 .headeruno {
+    display: none;
+}
+
+.page-id-246 .containersuperior {
+    display: none;
+}
+
+.page-id-246 .site-header {
+    display: none;
+}
+
+.page-id-246 aside.widget-area {
+	display: none;
+}
+
+
+.page-id-246 footer.site-footer {
+	display: none;
+}
+
+.carditem img {
+  position: relative;
+}
+
+.primary-navigation > div > .menu-wrapper {
+    z-index: 1;
+}
+
+.card-desc {
+	opacity: 0;
+    display: none;
+    position: absolute;
+    padding: 18px 0%;
+    background-color: #E4E9F9;
+    transition: 0.8s ease;
+    width: 370px!important;
+    box-shadow: inset 0 -3em 3em rgb(0 0 0 / 10%), 0 0 0 2px rgb(255 255 255), 0.3em 0.3em 1em rgb(0 0 0 / 30%);
+    font-family: "Work Sans", sans-serif;
+    font-size: 15px!important;
+    line-height: 25px;
+    color: rgb(43, 75, 128);
+    text-align: center;
+    z-index: 2;
+    margin-top: 15px;
+}
+
+.carditem:hover {
+	padding-bottom: 0;
+}
+
+.carditem:hover .card-desc {
+  opacity: 1;
+  display: block;
+}
+
+.card-desc i.fas.fa-phone {
+    color: #4F71EA;
+}
+
+.card-desc i.fas.fa-envelope {
+    color: #4F71EA;
+}
+
+.card-desc i.fab.fa-instagram {
+    color: #4F71EA;
+}
+
+.card-desc i.fab.fa-facebook-f {
+    color: #4F71EA;
+}
+
+.card-desc i.fab.fa-twitter {
+    color: #4F71EA;
+}
+
+.card-desc i.fab.fa-youtube {
+    color: #4F71EA;
+}
+
+.card-desc a {
+    list-style: none;
+    text-decoration: none;
+}
+
+.card-desc::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f0de";
+    position: absolute;
+    top: -11px;
+    left: 40px;
+    display: block;
+    color: #000;
+    font-size: 25px;
+    transition: 0.8s ease;
+}
+
+.a_module_title {
+    font-size: 14px;
+    font-family: "Work Sans", sans-serif;
+    line-height: 20px;
+    color: #000;
+    text-decoration: none!important;
+}
+
+.a_module.wah_contrast_trigger .a_module_title {
+    display: none;
+}
+
+button.close_container {
+    background: #4D70F2 !important;
+    font-family: "Work Sans", sans-serif;
+    font-size: var(--global--font-size-menu);
+    line-height: 20px;
+    color: #000;
+    text-decoration: none!important;
+}
+
+button.close_container:hover, button.close_container:focus {
+	background: #4D70F2 !important;
+	color: #fff!important;
+}
+
+button.wah-action-button {
+    font-family: "Work Sans", sans-serif;
+    font-size: var(--global--font-size-menu);
+    line-height: 20px;
+    color: #000;
+    text-decoration: none!important;
+}
+
+button.wah-action-button.smaller.wahout, button.wah-action-button.larger.wahout, button.wah-action-button.wahout.wah-call-keyboard-navigation, button#contrast_trigger, button.wah-action-button.wahout.wah-call-clear-cookies {
+    background: #E4E9F9!important;
+    color: #000!important;
+}
+body .accessability_container * {
+    background: transparent!important;
+    color: #000 !important;
+}
+main#main {
+    padding: 0;
+}
+
+h2.n2-font-cbf9cc919a5fed2f7bd498510c6d01ed-hover.n2-ss-item-content.n2-ss-text.n2-ow {
+    font-size: 45px!important;
+    line-height: 45px!important;
+    color: #fff;
+}
+
+h6#n2-ss-3item2 {
+    font-family: "Work Sans", sans-serif!important;
+    font-size: 20px!important;
+    line-height: 22px!important;
+}
+
+div#n2-ss-3-arrow-next {
+    float: left;
+    position: absolute;
+    left: 52%;
+}
+
+.n2-ss-slider-controls.n2-ss-slider-controls-absolute-center-bottom {
+    margin-top: -60px;
+}
+
+.n2-ss-slider-controls.n2-ss-slider-controls-below {
+    margin-top: -55px;
+    margin-left: 40px;
+}
+
+div#n2-ss-3 .n2-style-785355f374be86c332d4665aae819858-dot.n2-active, div#n2-ss-3 .n2-style-785355f374be86c332d4665aae819858-dot:HOVER, div#n2-ss-3 .n2-style-785355f374be86c332d4665aae819858-dot:FOCUS {
+    background: #fff;
+    opacity: 1;
+}
+
+div#n2-ss-3 .n2-style-785355f374be86c332d4665aae819858-dot {
+    padding: 6px 6px 6px 6px;
+}
+
+
+div#n2-ss-3 .n2-style-785355f374be86c332d4665aae819858-dot {
+    background: #fff;
+    opacity: 0.65;
+}
+
+
+h5.n2-font-cbf9cc919a5fed2f7bd498510c6d01ed-hover.n2-ss-item-content.n2-ss-text.n2-ow {
+    font-family: "Work Sans", sans-serif!important;
+    font-size: 18px!important;
+    line-height: 20px!important;
+    color: rgb(43, 75, 128)!important;
+    background: #fff;
+    padding: 15px;
+    border-radius: 25px;
+    font-weight: 700!important;
+}
+
+h5.n2-font-cbf9cc919a5fed2f7bd498510c6d01ed-hover.n2-ss-item-content.n2-ss-text.n2-ow a {
+    color: rgb(43, 75, 128)!important;
+}
+
+.Contenedor-botones {
+    padding-left: 18%!important;
+    padding-right: 18%!important;
+}
+
+div#n2-ss-1 .n2-style-771503a848f3e267c98f8cc9614a667b-heading {
+    font-family: "Work Sans", sans-serif!important;
+    line-height: 20px!important;
+    color: rgb(43, 75, 128)!important;
+    background: #fff;
+    padding: 15px;
+    border-radius: 25px;
+    font-weight: 700!important;
+}
+
+div#n2-ss-1 .n2-font-eff2aced2781d2712e1951a8ee5e5a94-link a {
+    font-size: 0.875rem!important;
+}
+
+.n2-font-657b3c277f374bc205d88022caadc1ad-hover.n2-style-b0eb591498834a1e131eda9c9265d3d2-heading.n2-ss-item-content.n2-ss-text.n2-ow {
+    font-family: "Work Sans", sans-serif!important;
+    color: #fff!important;
+    font-size: 1.25rem!important;
+}
+
+.n2-font-fbafe5f6f8f5b60f8c0185b60a4c5acc-hover.n2-ss-item-content.n2-ss-text.n2-ow {
+    font-family: "Work Sans", sans-serif!important;
+}
+
+ul.lista-sitios li {
+    font-family: "Work Sans", sans-serif;
+    font-size: 0.938rem;
+    list-style: none;
+    font-weight: 500;
+    text-align: left;
+}
+
+.lista-sitios li a {
+    text-decoration: none;
+    padding-left: 5px;
+}
+
+.lista-sitios i.fas.fa-chevron-right {
+    color: #8098EB;
+}
+
+.title-visitas {
+    font-family: "Work Sans", sans-serif;
+    font-size: 1.875rem;
+    color: #4D4D4D;
+    font-weight: 600;
+    text-align: center;
+    line-height: 1!important;
+    padding-top: 40px;}
+
+    .titulo-visitas {
+        font-family: "Work Sans", sans-serif;
+        font-size: 0.938rem;
+        color: #4D4D4D;
+        font-weight: 600;
+        text-align: center;
+    }
+
+    .numero-visitas {
+        font-family: "Work Sans", sans-serif;
+        font-size: 2.7rem;
+        color: #99BFB4;
+        font-weight: 600;
+        text-align: center;
+        margin-bottom: 0;
+    }
+
+    aside.widget-area {
+        margin: 0;
+    }
+
+    p.text-footer {
+        font-family: "Work Sans", sans-serif;
+        font-size: 1.875rem;
+        color: #4D4D4D;
+        font-weight: 400;
+        padding-top: 40px;
+    }
+
+    p {
+        font-family: "Work Sans", sans-serif;
+        font-size: 0.938rem;
+        color: #4D4D4D;
+        text-align: left;
+        font-weight: 500;
+    }
+
+    .psac-post-short-content {
+        display: none;
+    }
+    .psac-post-title a {
+        font-family: "Work Sans", sans-serif!important;
+    }
+
+    span.psac-post-meta-innr.psac-user-img {
+        display: none;
+    }
+
+    span.psac-sep {
+        display: none;
+    }
+
+    .psac-post-meta span.psac-post-meta-innr {
+        font-size: 0.75rem;
+        font-family: "Work Sans", sans-serif!important;
+    }
+
+    .psac-post-carousel.psac-design-1 .psac-post-title {
+        font-size: 1.125rem;
+    }
+
+    .psac-post-carousel.psac-design-1 .psac-post-carousel-content a {
+        color: #fff!important;
+        font-size: 1rem!important;
+    }
+
+    .psac-readmorebtn {
+        background: #4F71EA;
+        border-radius: 25px;
+        font-family: "Work Sans", sans-serif!important;
+        color: transparent!important;
+        font-size: 0.9rem!important;
+        display: flex;
+    }
+
+    .psac-readmorebtn:after {
+        content: "Leer más";
+        color: #fff!important;
+        position: absolute;
+        margin: 0 auto;
+        left: 0;
+        right: 0;
+    }
+    .psac-post-carousel.psac-design-1 .psac-post-content {
+        position: absolute;
+        bottom: 20px;
+        margin: 0 auto;
+        display: table;
+        left: 40%;
+    }
+
+    .psac-post-carousel.psac-design-1 .psac-post-content {
+        position: absolute;
+        bottom: 20px;
+        margin: 0 auto;
+        display: table;
+        left: 40%;
+    }
+
+    .psac-post-carousel.psac-design-1 .psac-post-carousel-content {
+        bottom: 60px;
+    }
+
+    div#n2-ss-1-arrow-next {
+       padding-left: 8%;
+       bottom: -5.6%;
+   }
+
+   .n2-ss-widget.n2-ss-control-bullet.n2-ow-all.n2-ss-control-bullet-horizontal {
+    padding-top: 15px;
+    padding-left: 45px;
+}
+
+
+.section-blue { 
+   background: #4F71EA;
+   border-radius: 10px;
+   color: #fff!important;
+   text-align: center;
+   font-family: "Work Sans", sans-serif!important;
+   font-size: 1.2rem;
+   font-weight: 600;
+   padding-bottom: 5%;
+   padding-top: 30%;
+}
+
+.section-blue i.fas.fa-chevron-down {
+    color: #2B4B80;
+    padding-top: 20px;
+}
+
+.section-blue-img {
+    position: absolute;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: -5%;
+}
+
+.section-blue-img img {
+    margin: 0 auto;
+    display: table;
+}
+
+@media only screen and (min-width: 482px) {
+    .primary-navigation > div > .menu-wrapper > li > .sub-menu:before, .primary-navigation > div > .menu-wrapper > li > .sub-menu:after {
+        content: none!important;
+
+        }}
+
+        button.sub-menu-toggle {
+            display: none!important;
+        }
+
+        ul.sub-menu li a:after {
+            content: "\f054"!important;
+            color: #fff!important;
+            padding-left: 10px!important;
+            float: right;
+        }
+
+        .primary-navigation .sub-menu > .menu-item > .sub-menu li a {
+            border: none;
+        }
+        .sub-menu {
+            border: none!important;
+        }
+
+        .sub-menu li a {
+            font-family: "Work Sans", sans-serif!important;
+            font-size: 0.938rem!important;
+        }
+        .sub-menu li:last-child a {
+            border: none;
+        }
+
+        .primary-navigation .sub-menu > .menu-item > .sub-menu li {
+            padding-left: 0px!important;
+            padding-right: 0px!important;
+        }
+
+
+        #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-megamenu.mega-menu-item {
+            position: static;
+            font-family: "Work Sans", sans-serif;
+        }
+
+        #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item > a.mega-menu-link {
+            font-family: "Work Sans", sans-serif!important;
+        }
+
+        a.mega-menu-link {
+            font-family: "Work Sans", sans-serif!important;
+        }
+
+        #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-megamenu > ul.mega-sub-menu {
+            opacity: 0.95!important;
+        }
+
+        .menu-button-container #primary-mobile-menu {
+            color: #fff;
+            display: none!important;
+        }
+
+        .vce-text-block a {
+            text-decoration: none;
+        }
+
+        .calendario {
+            background: #4F71EA;
+            border-radius: 10px;
+            color: #fff!important;
+            text-align: center;
+            font-family: "Work Sans", sans-serif!important;
+            font-size: 1.2rem;
+            font-weight: 600;
+            max-width: 50%;
+            margin: 0 auto;
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+
+        .calendario a {
+            color: #fff;
+            font-size: 25px;
+        }
+
+        ul.listahorario li {
+            float: left;
+            width: 50%;
+            font-family: "Work Sans", sans-serif;
+            font-size: 1rem;
+            color: rgb(43, 75, 128);
+            font-weight: 400;
+        }
+
+        ul.listahorario {
+            padding-bottom: 40px;
+        }
+
+        .titleBoletines {
+            font-family: "Work Sans", sans-serif!important;
+            font-size: 2.2rem;
+            font-weight: 900!important;
+            padding-bottom: 5%;
+            padding-top: 8%;
+            text-align: left;
+            padding-left: 30%;
+            line-height: 40px;
+        }
+
+        .vce.vce-widgets-wrapper ul {
+            list-style: none;
+        }
+
+
+
+        body .accessability_container .font_resizer button.wah-action-button.smaller{
+            width: 30px;
+            height: 30px;
+            background: #fff !important;
+            float: none;
+            margin-bottom: 5px;
+            border-radius: 3px;
+        }
+        body .accessability_container .font_resizer button.wah-action-button.larger {
+            width: 30px;
+            height: 30px;
+            background: #fff !important;
+            float: none;
+            margin-bottom: 5px;
+            border-radius: 3px;
+        }
+        body .accessability_container{
+            width: 40px;
+            background: #4F71EA !important;
+            position: fixed;
+            height: max-content;
+            top: 200px !important
+        }
+        .accessibility-location-right .accessability_container{
+            right: -40px;
+        }
+        .accessibility-location-right .accessability_container.active{
+            right: 0px;
+            position: fixed;
+            border-radius: 3px;
+        }
+        .accessibility-location-right .accessability_container .wah-free-credits{
+            font-size: 0 !important;
+            height: 0 !important;
+        }
+        .accessibility-location-right .accessability_container .close_container{
+            font-size: 0 !important;
+            width: 30px;
+            height: 30px;
+            background: #fff !important;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            margin-bottom:5px;
+            border-radius: 3px;
+        }
+        .accessibility-location-right .accessability_container .close_container::before{
+            content: '';
+            background: url('https://www.aunap.gov.co/wp-content/uploads/2021/08/close.png');
+            background-size: 100%;
+            width: 15px;
+            height: 15px;
+            display: block;
+        }
+        body .accessability_container .a_module {
+            border-bottom: 0px !important;
+            margin-bottom: 0px !important;
+            padding-bottom: 0px !important;
+        }
+        body .accessability_container .a_module_exe{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        .accessibility-location-right .accessability_container .wah_font_resize .a_module_title{
+            display: none;
+        }
+        .accessibility-location-right .accessability_container .access_container_inner{
+            margin-top: 0px;
+            display: flex;
+            flex-direction: column;
+        }
+        .accessibility-location-right .accessability_container .wah-call-keyboard-navigation {
+            font-size: 0 !important;
+            width: 30px;
+            height: 30px;
+            background: #fff !important;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            margin-bottom:5px;
+            border-radius: 3px;
+        }
+        .accessibility-location-right .accessability_container .wah-call-keyboard-navigation::before {
+            content: '';
+            background: url('https://www.aunap.gov.co/wp-content/uploads/2021/08/keyboard.png');
+            background-size: 100%;
+            width: 20px;
+            height: 20px;
+            display: block;
+        }
+        .accessibility-location-right .accessability_container .wah-call-clear-cookies {
+            font-size: 0 !important;
+            width: 30px;
+            height: 30px;
+            background: #fff !important;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            margin-bottom:5px;
+            border-radius: 3px;
+        }
+        .accessibility-location-right .accessability_container .wah-call-clear-cookies::before {
+            content: '';
+            background: url('https://www.aunap.gov.co/wp-content/uploads/2021/08/archeology.png');
+            background-size: 100%;
+            width: 20px;
+            height: 20px;
+            display: block;
+        }
+        .accessibility-location-right .accessability_container .wah-call-invert{
+            font-size: 0 !important;
+            width: 30px;
+            height: 30px;
+            background: #fff !important;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            margin-bottom:5px;
+            border-radius: 3px;
+            order: 3;
+        }
+        .accessibility-location-right .accessability_container .wah-call-invert::before {
+            content: '';
+            background: url('https://www.aunap.gov.co/wp-content/uploads/2021/08/contrast.png');
+            background-size: 100%;
+            width: 20px;
+            height: 20px;
+            display: block;
+        }
+        .accessibility-location-right .accessability_container .close-wah-sidebar{
+            display: none;
+        }
+
+        .vce-text-block-wrapper.vce {
+            font-family: "Work Sans", sans-serif;
+            font-size: 0.938rem;
+            text-align: left;
+            font-weight: 400;
+        }
+
+        .psac-slider-and-carousel .owl-nav {
+            position: absolute;
+            top: 45% !important;
+            transform: translateY(-50%);
+            margin-top: -30px;
+            -webkit-transform: translateY(-50%);
+            -moz-transform: translateY(-50%);
+            border: none !important;
+            width: 5%;
+            left: -7%;
+        }
+
+        .psac-slider-and-carousel .owl-nav .owl-next, .psac-slider-and-carousel .owl-nav .owl-prev {
+            display: inline-block;
+            text-align: center !important;
+            background: rgba(255,255,255,0.4);
+            color: #000;
+            border: 2px solid #000;
+            line-height: normal !important;
+            font-size: 25px;
+            padding: 2px 15px 4px 15px !important;
+            border-radius: 0px;
+            box-shadow: none;
+            -moz-transition: all 0.5s ease-out 0s;
+            -ms-transition: all 0.5s ease-out 0s;
+            -o-transition: all 0.5s ease-out 0s;
+            transition: all 0.5s ease-out 0s;
+            width: 50px!important;
+            margin: 0 auto;
+            display: table;
+            left: 0;
+            right: 0;
+            height: 50px;
+        }
+
+        .psac-slider-and-carousel .owl-prev {
+            left: 0px !important;
+            position: absolute;
+        }
+
+        span.owl-next {
+            top: 60px;
+            background: url(https://www.aunap.gov.co/wp-content/uploads/2021/08/icono-siguiente.png)!important;
+            background-color: transparent;
+            border: none!important;
+            color: transparent!important;
+        }
+
+        span.owl-prev {
+            background: url(https://www.aunap.gov.co/wp-content/uploads/2021/08/icono-anterior.png)!important;
+            background-color: transparent;
+            border: none!important;
+            color: transparent!important;
+        }
+
+        .psac-slider-and-carousel .owl-nav .owl-next:hover, .psac-slider-and-carousel .owl-nav .owl-prev:hover, .psac-slider-and-carousel .owl-nav .owl-next:focus, .psac-slider-and-carousel .owl-nav .owl-prev:focus {
+            background: transparent;
+            color: transparent;
+            border-color: #03a9f5;
+        }
+
+        .sitios {
+           background: #4F71EA;
+           border-radius: 10px;
+           color: #fff!important;
+           text-align: center;
+           font-family: "Work Sans", sans-serif!important;
+           font-size: 1.2rem;
+           font-weight: 600;
+           margin: 0 auto;
+           padding-top: 20px;
+       }
+
+       .sitios i {
+           font-size: 55px;
+           margin: 0 auto;
+           text-align: center;
+           display: table;
+           padding-left: 40px;
+       }
+
+       .textsitios {
+        font-weight: 600;
+        font-family: "Work Sans", sans-serif!important;
+        font-size: 1.4rem;
+        line-height: 30px;
+        color: #fff;
+    }
+
+    header.entry-header.alignwide {
+        display: none;
+    }
+
+    .entry-content {
+        margin: 0!important;
+    }
+
+    .cadena {
+        font-family: "Work Sans", sans-serif;
+        font-size: 0.938rem;
+        color: #000;
+    }
+
+    span.text-active {
+        color: #4F71EA;
+        font-weight: 600;
+    }
+
+    .enlacesguia .vce {
+        margin-bottom: 0;
+    }
+
+    h1 {
+        color: #4F71EA;
+        font-weight: 600;
+        font-family: "Work Sans", sans-serif;
+        font-size: 2rem;
+    }
+
+    .vce-text-block a {
+        text-decoration: none;
+        color: #4F71EA;
+    }
+
+    .calendario a {
+        color: #fff;
+    }
+
+    .avc_visit_counter_front {
+        font-family: "Work Sans", sans-serif!important;
+        font-size: 2.7rem!important;
+        color: #95ACEC;
+        font-weight: 600;
+        border: none!important;
+        text-align: center;
+        margin: 0 auto;
+        display: table;
+        padding: 0!important;
+        max-width: max-content!important;
+    }
+
+    .mc_bottomnav.my-calendar-footer {
+        display: none;
+    }
+
+    .mc-main th {
+        background: #4F71EA!important;
+    }
+
+    .mc-main .current-day .mc-date {
+        background: #4F71EA!important;
+    }
+
+    .mc-main .has-events .mc-date {
+        background: #4F71EA!important;
+    }
+
+    .mc-main caption, .mc-main.list .my-calendar-month, .mc-main .heading {
+        text-transform: capitalize;
+        font-family: "Work Sans", sans-serif!important;
+        font-size: 1.5rem;
+        font-weight: 600;
+    }
+
+    .mc-main th abbr, .mc-main .event-time abbr {
+        font-family: "Work Sans", sans-serif!important;
+    }
+
+    .mc-main .my-calendar-header input, .mc-main .my-calendar-header a, .mc-main .mc_bottomnav a {
+
+        background: transparent!important;
+        color: transparent!important;
+        font-family: "Work Sans", sans-serif!important;
+    }
+    .month {
+        color: transparent!important;
+        width: 0!important;
+    }
+
+    .month:after {
+        content: "Mes";
+        color: #000;
+        position: absolute;
+        left: 15px;
+        padding-top: 2px;
+    }
+    a.week {
+        color: transparent!important;
+        width: 0!important;
+    }
+
+    a.week:after {
+        content: "Semana";
+        color: #000;
+        position: absolute;
+        left: 64px;
+        padding-top: 2px;
+    }
+
+    span.mc-active.week {
+        color: transparent!important;
+        width: 0!important;
+    }
+
+    span.mc-active.week:after {
+        content: "Semana";
+        color: #000;
+        position: absolute;
+        left: 64px;
+        padding-top: 2px;
+    }
+
+    span.mc-active.month {
+        color: transparent!important;
+        width: 0!important;
+    }
+
+    span.mc-active.month:after {
+        content: "Mes";
+        color: #000;
+        position: absolute;
+        left: 15px;
+        padding-top: 2px;
+    }
+
+    a.day {
+        color: transparent!important;
+        width: 0!important;
+    }
+
+    a.day:after {
+        content: "Dia";
+        color: #000;
+        position: absolute;
+        left: 145px;
+        padding-top: 2px;
+    }
+
+    span.mc-active.day {
+        color: transparent!important;
+        width: 0!important;
+    }
+
+    span.mc-active.day:after {
+        content: "Dia";
+        color: #000;
+        position: absolute;
+        left: 145px;
+        padding-top: 2px;
+    }
+
+
+    .mc-main .my-calendar-header a {
+        padding: 4px 17px!important;
+    }
+
+    input.button {
+        color: #000!important;
+    }
+
+    .mc-format {
+        display: none!important;
+    }
+
+    .container-body {
+        background: #36c;
+    }
+
+    .containersuperior {
+        background: #E4E9F9;
+    }
+
+    .items_menu_superior, .buscador_menu_superior {
+        display: flex;
+        align-items: center;
+
+
+    }
+
+    .mc-main .my-calendar-date-switcher input[type=submit] {
+        /* color: #000!important; */
+        background: url(https://www.aunap.gov.co/wp-content/uploads/2021/08/icon-search-svg.svg)!important;
+    }
+
+    .my-calendar-nav .my-calendar-prev a {
+        color: #000!important;
+    }
+
+    .my-calendar-nav .my-calendar-next a {
+        color: #000!important;
+    }
+
+    header#masthead {
+        max-width: 100%;
+        background: #f6f8f9;
+        padding: 0;
+    }
+
+    .buscador label {
+        display: none!important;
+
+    }
+
+    .search-form .search-field {
+        margin-right: 0!important;
+        border-radius: 1.3125rem;
+        border: solid 1px #4b4b4b;
+
+
+
+    }
+
+    input.search-field:hover{
+        border-radius: 1.3125rem;
+        border: solid 2px #36c;
+
+    }
+
+    .search-form .search-submit {
+        margin-left: 0!important;
+    }
+
+    input.search-field {
+        padding: 6px 60px 7px 16px;
+        width: 100%;
+        border: 1px solid #C9C9C9;
+        border-radius: 8px;
+
+    }
+
+    .busqueda_avanzada {
+
+        position: relative;
+        margin-left: auto;
+        width: 100%;
+        max-width: 350px;
+        
+    }
+
+    input.search-submit {
+        width: 35px!important;
+        position: absolute;
+        right: 4px;
+        height: 30px;
+        float: right;
+        display: -webkit-box;
+        display: flex;
+        -webkit-box-pack: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        align-items: center;
+        border-radius: 50%;
+        text-decoration: none;
+        color: transparent!important;
+        padding: 0!important;
+        top: 4px;
+        background: transparent!important;
+        background-image: url(https://www.aunap.gov.co/wp-content/uploads/2021/08/icon-search-svg.svg)!important;
+        background-repeat: no-repeat!important;
+        background-position: center!important;
+        background-size: 28px!important;}
+
+        input#search-form-1 {
+            color: var(--form--color-text);
+            outline-offset: 0!important;
+            outline: 0px solid var(--form--border-color);
+        }
+
+        header#masthead {
+            border-bottom: 4px solid #00906B;
+        }
+
+        div#n2-ss-5item1 {
+            font-family: "Work Sans", sans-serif!important;
+            color: #fff!important;
+            font-size: 1.55rem!important;
+            text-transform: uppercase!important;
+            text-decoration: underline!important;
+        }
+
+        .n2-ss-slider-controls.n2-ss-slider-controls-absolute-center-bottom {
+            margin-top: 0px!important;
+        }
+
+        ul.display-posts-listing {
+            list-style: none;
+        }
+
+        a.title {
+            font-family: "Work Sans", sans-serif;
+            font-size: 0.938rem;
+            color: #3366CC;
+            width: 100%;
+            display: table;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            font-weight: 600;
+        }
+
+        span.date {
+            width: 100%;
+            display: table;
+            text-transform: capitalize;
+            padding-bottom: 10px;
+        }
+
+        span.excerpt-dash {
+            display: none;
+        }
+
+        .div-fechas span.date {
+            position: absolute;
+            top: 0;
+        }
+
+        .div-fechas a.title {
+            padding-top: 30px;
+        }
+
+        span.excerpt {
+            font-family: "Work Sans", sans-serif;
+            font-size: 0.938rem;
+        }
+
+        .title-h2 {
+            font-family: "Work Sans", sans-serif;
+            font-size: 3rem;
+            color: #3366CC!important;
+            width: 100%;
+            font-weight: 600;
+            text-align: center;}
+
+            .bg-green {
+                background-image: linear-gradient(to bottom,#F7F8F9,#F7F8F9 15%,#00906B 15%,#00906B 85%,#00906B 85%)!important;
+            }
+
+            .logo-gov-co {
+                background: transparent!important;
+                border: none!important;
+                box-shadow: none!important;
+                padding-top: 30px;
+            }
+
+            .separator {
+                height: 10px;
+                display: block;
+            }
+
+            aside.widget-area {
+                display: none;
+            }
+
+            footer#colophon {
+                display: none;
+            }
+
+            .gov-co-link-presentacion {
+                font-size: .60rem!important;
+            }
+
+            .gov-co-logo-pie-blanco {
+                width: 130px;
+                padding-top: 15px;
+                padding-bottom: 15px;
+                padding-left: 10px;
+            }
+
+
+            .gov-co-logo-pie-mesa {
+                width: 80px!important;
+                border-right: 1px solid #fff;
+                padding-right: 20px;
+            }
+
+            .gov-co-logo-pie-blanco {
+                border: none!important;
+            }
+
+            .bg-blue {
+                background-color: #3065C7!important;
+
+            }
+
+            .header-govco img {
+                max-height: 20px;
+            }
+
+            .header-govco {
+                padding: 8px 0;
+            }
+
+            .icon-language {
+                margin-top: -8px;
+                font-size: 1.5em;
+            }
+
+            .icon-gray {
+                color: #CCCCCC!important;
+                font-size: 1em;
+                text-align: center;
+                margin: 0 auto;
+                display: table;
+            }
+
+            .govco-icon-language-en-n::before {
+                content: "\e9a3";
+                color: #fff;
+            }
+
+            .titulo-sede-gov-co {
+                color: #00906B;
+            }
+
+            .footer-presentacion a {
+                color: #00906B;
+            }
+
+            .gov-co-redes-sociales .govco-icon {
+                color: #00906B;
+            }
+
+            .gov-co-politicas a {
+                color: #00906B!important;
+                text-decoration: underline!important;
+            }
+
+            h5.sub-titulo-sede-gov-co {
+                color: #00906B;}
+
+                .scroll-to-top button {
+                    background: #f6f8f9!important;
+                }
+
+                .vce-text-block h1 {
+                    line-height: 1em!important;
+                    color: #333;
+                    font-weight: 600;
+                }
+
+                .gov-co-breadcrumb .breadcrumb-item.active {
+                    color: #333;
+                }
+
+                .gov-co-breadcrumb .breadcrumb-item.active {
+                    padding-top: 0;
+                    padding-left: 8px;
+                }
+
+                .gov-co-breadcrumb .breadcrumb-item::before {
+                    padding-right: 8px;
+                }
+
+                .breadcrumb {
+                    background-color: #fff!important;
+                }
+
+                li.breadcrumb-item i {
+                    color: #00906B!important;
+                }
+                li.breadcrumb-item a {
+                    color: #00906B!important;
+                }
+
+                .vce-text-block a {
+                    color: #00906B!important;
+                    text-decoration: underline;
+
+                }
+
+                p.n2-font-0b2dbb5cbcc153b9663e67f4f7b4941d-paragraph {
+                    font-family: "Work Sans", sans-serif!important;
+                    color: #fff!important;
+                    font-size: 1.75rem!important;
+                    text-transform: uppercase!important;
+                    text-decoration: underline!important;
+                }
+
+                .botones-portales a.btn {
+                    text-transform: capitalize;
+                }
+
+                div#n2-ss-1 .n-uc-IG1jVz6y8uhb-inner {
+                    background-color: RGBA(0,144,107,1)!important;
+                }
+
+                .scroll-to-top {
+                    bottom: 8rem;
+                }
+
+                .mega-menu-wrap a:hover {
+                    text-decoration: underline!important;
+                }
+
+                .accordion-govco .btn.btn-link {
+                    background: #00906B;
+                    padding-right: 10px;
+                    width:100%!important;
+                    text-align:left!important;
+                }
+
+                .accordion-govco a.btn.btn-link.collapsed {
+                    background: #fff;
+                }
+
+                .icon-page {
+                 float: left!important;
+                 padding-left: 20px;}
+
+                 span.headline-m-govco {
+                    padding-left: 20px;
+                    font-size: 1.2em!important;
+
+                }
+
+                .accordion-govco .card-header .btn .govco-icon {
+                    -webkit-transform: rotate(0)!important;
+                    transform: rotate(0)!important;
+                }
+
+                .accordion-govco .card-header .btn span.govco-icon {
+                    font-size: 1.6rem!important;
+
+                }
+
+                .btn-link span {
+                    color: #fff!important;
+                }
+
+                .collapsed span {
+                    color: #00906B!important;
+                }
+
+                .accordion-govco .card .card-header {
+                    padding-top: 0px;
+                    padding-bottom: 0px;
+                }
+
+                .headline-xl-govco, h2 {
+                    line-height: 0!important;
+                }
+
+                .accordion-govco .card .card-body ul{
+                 padding: 0;
+                 text-align: left;
+             }
+
+
+             .accordion-govco a {
+                color: #00906B;
+                text-decoration: underline;
+                font-weight: 500;
+            }
+
+            .accordion-govco .card-body {
+                background: #E5F4F0;
+            }
+            #el-890e416f [data-vce-do-apply*=all][data-vce-do-apply*=el-890e416f], #el-890e416f [data-vce-do-apply*=border][data-vce-do-apply*=el-890e416f], #el-890e416f[data-vce-do-apply*=all][data-vce-do-apply*=el-890e416f], #el-890e416f[data-vce-do-apply*=border][data-vce-do-apply*=el-890e416f] {
+             color: #fff!important;
+         }
+
+         #el-aef59125 [data-vce-do-apply*=all][data-vce-do-apply*=el-aef59125], #el-aef59125 [data-vce-do-apply*=border][data-vce-do-apply*=el-aef59125], #el-aef59125[data-vce-do-apply*=all][data-vce-do-apply*=el-aef59125], #el-aef59125[data-vce-do-apply*=border][data-vce-do-apply*=el-aef59125] {
+             color: #fff!important;
+         }
+
+         ul.presupuestos li {
+            border-bottom: 1px solid #B3B3B3;
+            padding-bottom: 10px;
+        }
+
+        button.btn.btn-default.dropdown-toggle {
+            display: none!important;
+        }
+
+        .foo-table.hide_all_borders.table thead {
+            border: 1px solid!important;
+            border-color: #00906B!important;
+        }
+
+        .form-group.footable-filtering-search {
+            width: 100%;
+        }
+
+        .input-group {
+            display: block;
+        }
+
+        .input-group-btn {
+            position: absolute!important
+            right: 0;
+            z-index: 999;
+        }
+
+        .foo-table .form-inline {
+            display: table!important;
+            margin: 0 auto;
+            width: 70%;
+        }
+
+        button.btn.btn-primary {
+            background: transparent!important;
+            border: none!important;
+        }
+
+        table button.btn.btn-primary:after {
+            content: url(https://www.aunap.gov.co.com/wp-content/uploads/2021/09/icon-buscar.png);
+            position: absolute;
+            top: -4px;
+            right: -4px;}
+
+            .ul-lista {
+                list-style: disc!important;
+                padding-left: 20px!important;
+
+            }
+
+            ul.ul-lista li {
+                font-weight: 500;
+            }
+
+            .ul-decimal {
+             list-style: decimal!important;
+             padding-left: 30px!important;
+         }
+
+         ul.tablas-presupuestos {
+            list-style: none;
+        }
+
+        .footable .pagination>.active>a, .footable .pagination>.active>a:hover {
+            color: #fff!important;
+            cursor: default;
+            background-color: #00906B!important;
+            border-color: #00906B!important;
+        }
+        .section-imprimir {
+            list-style: none;
+        }
+
+        .section-imprimir span.fa.fa-print.fa-2x {
+            color: #00906B;
+        }
+
+
+        #btonenvar {
+            float: none!important;
+            margin: 15px auto!important;
+            display: table;
+        }
+
+        h1.page-title {
+            font-family: Montserrat,sans-serif!important;
+            font-weight: 600!important;
+            font-size: 2.25rem!important;
+            color: #004884!important;
+        }
+
+        span.page-description.search-term {
+            font-family: Montserrat,sans-serif!important;
+            font-weight: 600!important;
+            font-size: 2.25rem!important;
+        }
+
+        header.page-header.alignwide {
+            padding: 0!important;
+        }
+
+        h2.entry-title.default-max-width a {
+            color: #004884!important;
+            text-decoration: underline;
+            font-size: 1.5rem;
+            line-height: 40px;
+        }
+
+        .nav-links {
+            margin: 0 auto;
+            padding-bottom: 30px;
+        }
+
+        .nav-links a {
+            font-family: "Work Sans", sans-serif!important;
+            font-size: 0.938rem;
+            color: #4D4D4D!important;
+            font-weight: 500!important;
+        }
+
+        a.page-numbers {
+            font-size: 1.3rem!important;
+        }
+
+        span.page-numbers.current {
+            font-size: 1.3rem!important;
+            color: #00906B;
+            font-weight: 600;
+        }
+
+        li.modMenu- a {
+            background-color: #E5F4F0;
+            color: #000;
+            font-size: 0.8em;
+            text-decoration: none;
+            position: relative;
+            display: block;
+            padding: 10px 15px;
+            border-radius: 4px;
+            margin-left: 20px;
+        }
+
+        .pull-right {
+            float: right;
+        }
+
+        .collapse-modMenu-container {
+            display: inline-block;
+            width: 100%;
+        }
+
+        span.text {
+            padding-left: 8px;
+        }
+
+        .panel {
+            border-style: solid;
+            border-width: 1px;
+            border-color: #d8d8d8;
+            margin-bottom: 1.25rem;
+            padding: 1.40rem;
+            background: #fff!important;
+            color: #333333;
+        }
+
+        .panel-body {
+            height: 80px;
+        }
+
+        .col-uno {
+            width: 40%;
+            float: left;
+            padding-top: 20px;
+        }
+
+        .col-dos {
+            width: 60%;
+            float: left;
+        }
+
+        ul.nav.nav-pills.pills-share li {
+            margin-left: 20px;
+        }
+
+        ul.nav.nav-pills.pills-share .govco-icon {
+            font-size: 3em;
+        }
+
+        h2.share-mod-title {
+            font-family: Montserrat,sans-serif;
+            font-weight: 600;
+            font-size: 1.80rem;
+        }
+
+        .modMenuContainer form.search-form {
+            max-width: 100%;
+        }
+
+        .modMenuContainer input.search-submit { 
+            top: 49%;
+            right: 2%;
+        }
+
+        .vce {
+            margin-bottom: 0!important;
+        }
+
+        h2.share-mod-title {
+            font-family: "Work Sans", sans-serif;
+        }
+
+        .section-cardaunap .categories-container-text_title.headline-xs-govco {
+            font-family: "Work Sans", sans-serif;
+            font-size: 0.938rem;
+            color: #00906B;
+            text-align: center;
+            font-weight: 500;
+            line-height: 1!important;
+        }
+
+        .section-cardaunap {
+
+            min-height: auto!important;
+        }
+
+        .categories-container.hover, .categories-container:hover {
+            border: 1px solid #00906B;
+            box-shadow: 0 3px 5px 0 #3366cc24;
+            box-shadow: 0 4px 0 #3366cc24;
+            background: #00906B;
+        }
+
+        .categories-container-text i.fas.fa-chevron-down {
+            color: #00906B;
+        }
+
+        .categories-container:hover h3.categories-container-text_title.headline-xs-govco {
+            color: #fff;
+        }
+
+        .categories-container:hover i.fas.fa-chevron-down {
+            color: #fff;
+        }
+
+        .icon-noticias:hover img {
+            content: url(https://www.aunap.gov.co/wp-content/uploads/2021/10/prensa-noticia.png);
+            transform: scale(1.1);
+        }
+
+        .icon-eventos:hover img {
+            content: url(https://www.aunap.gov.co/wp-content/uploads/2021/11/participa_ICONOS_2_eventos.png);
+            transform: scale(1.1);
+        }
+
+        .icon-participacion:hover img {
+            content: url(https://www.aunap.gov.co/wp-content/uploads/2021/11/participa_ICONOS_2_mecanismoParticiacion.png);
+            transform: scale(1.1);
+        }
+
+        .icon-ciudadana:hover img {
+            content: url(https://www.aunap.gov.co/wp-content/uploads/2021/11/participa_ICONOS_2_planParticicpacion.png);
+            transform: scale(1.1);
+        }
+
+        .icon-regulatorio:hover img {
+            content: url(https://www.aunap.gov.co/wp-content/uploads/2021/11/participa_ICONOS_2_ProyectosRegularorios.png);
+            transform: scale(1.1);
+        }
+
+        .icon-rendicion:hover img {
+            content: url(https://www.aunap.gov.co/wp-content/uploads/2021/11/participa_ICONOS_2_Rendicion.png);
+            transform: scale(1.1);
+        }
+
+        .icon-infografia:hover img {
+            content: url(https://www.aunap.gov.co/wp-content/uploads/2021/10/prensa-Infografia.png);
+            transform: scale(1.1);
+        }
+
+        .icon-podcast:hover img {
+            content: url(https://www.aunap.gov.co/wp-content/uploads/2021/10/prensa-podcast.png);
+            transform: scale(1.1);
+        }
+
+        .icon-relatos:hover img {
+            content: url(https://www.aunap.gov.co/wp-content/uploads/2021/10/prensa-relatos.png);
+            transform: scale(1.1);
+        }
+
+        .icon-columnas:hover img {
+            content: url(https://www.aunap.gov.co/wp-content/uploads/2021/10/prensa-columnas.png);
+            transform: scale(1.1);
+        }
+
+        .icon-biblioteca:hover img {
+            content: url(https://www.aunap.gov.co/wp-content/uploads/2021/10/prensa-biblioteca.png);
+            transform: scale(1.1);
+        }
+
+        .sc_player_container1 .myButton_play {
+            background: transparent url(https://www.aunap.gov.co/wp-content/uploads/2021/10/Play.png) no-repeat !important;
+            cursor: pointer !important;
+            width: 143px !important;
+            height: 143px !important;
+            border: none !important;
+            position: relative;
+            margin: 0 !important;
+            padding: 0 !important;
+            margin-top: 20px!important;}
+
+            .sc_player_container1 .myButton_stop {
+             background: transparent url(https://www.aunap.gov.co/wp-content/uploads/2021/10/Pausa2.png) no-repeat !important;
+             cursor: pointer !important;
+             width: 143px !important;
+             height: 143px !important;
+             border: none !important;
+             position: relative;
+             margin: 0 !important;
+             padding: 0 !important;
+             margin-top: 20px!important;}
+
+             .sc_player_container1 {
+                display: table;
+            }
+
+            div#comments {
+                display: none;
+            }
+
+            footer.entry-footer.default-max-width {
+                display: none!important;
+            }
+
+            .listing-item {
+                margin-bottom: 30px;
+            }
+
+            .btn-site-green {
+                font-family: "Work Sans", sans-serif!important;
+                color: #fff!important;
+                text-transform: initial!important;
+                font-size: 1.3em!important;
+                transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out!important;
+            }
+
+            .btn-site-general {
+             background: #00906a !important;
+             margin-bottom: 20px!important;
+         }
+
+         .btn-site-general:hover {
+            background: #01523d !important;
+        }
+
+        .botones-portales a.btn {
+            background: #00906a !important;
+            margin-bottom: 20px!important;
+        }
+
+        .botones-portales a.btn:hover {
+            background: #01523d !important;
+        }
+
+        span.btn-govco-text.text-white {
+            font-family: "Work Sans", sans-serif!important;
+            color: #fff!important;
+            text-transform: initial!important;
+            font-size: 1.3em!important;
+            transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out!important;
+        }
+
+        input#btonenvar, input#btnenviarform {
+            background: #00906a !important;
+            margin-bottom: 20px!important;
+            font-family: "Work Sans", sans-serif!important;
+            color: #fff!important;
+            text-transform: initial!important;
+            font-size: 1.3em!important;
+            transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out!important;
+        }
+
+        input#btnenviarform {
+         margin-left: 20px!important;
+         margin-top: 20px!important;
+     }
+
+     input#btonenvar:hover, input#btnenviarform:hover {
+         background: #01523d !important;
+         border-color: #01523d !important;
+     }
+
+
+     input[type=radio]:after {
+        background: #01523d !important;
+    }
+
+    input[type=radio]:checked {
+        border: 4px solid #00906a!important;
+        padding: 0!important;
+        margin: 0!important;
+    }
+
+    input[type="radio"] {
+        margin: 0!important;
+    }
+
+    input[type=checkbox], input[type=radio] {
+        border: var(--form--border-width) solid #00906a!important;
+    }
+
+    .breadcrumb i.fas.fa-home {
+        display: none;
+    }
+
+    .vce-row[data-vce-stretch-content=true] {
+        left: initial !important;
+    }
+
+    .vce-row-container {
+        max-width: max-content !important;
+    }
+
+    body.custom-background {
+        overflow-x: hidden!important;
+    }
+
+    .center {
+        text-align: center;
+    }
+
+    a.btn.btn-round.btn-high.btn-view {
+        margin-bottom: 50px!important;
+    }
+
+    img.nextend-autoplay-play.skip-lazy {
+        content: url(https://www.aunap.gov.co/wp-content/uploads/2021/10/Reproducir.png);
+
+    }
+
+    img.nextend-autoplay-pause.skip-lazy {
+        content: url(https://www.aunap.gov.co/wp-content/uploads/2021/10/Detener.png);
+    }
+
+    div#n2-ss-1 .nextend-autoplay img {
+        width: auto;
+    }
+
+    .noticiassinimages img.attachment-medium.size-medium.wp-post-image {
+        display: none;
+    }
+
+    .idioma a { border-radius: 8px ; background: #fff; padding: 3px ; text-decoration: auto; }
+
+    .w3eden .btn-success {
+        color: #fff!important;
+    }
+
+    nav.pcp-post-pagination.pcp-on-desktop {
+        margin: 0 auto;
+        display: table;
+    }
+
+    #pcp_wrapper-3998 .pcp-post-pagination .page-numbers.current, #pcp_wrapper-3998 .pcp-post-pagination a.active, #pcp_wrapper-3998 .pcp-post-pagination a:hover {
+        color: #ffffff!important;
+        background: #00906B!important;
+        border-color: #00906B!important;
+    }
+
+    /* MEDIA QUERIES */ 
+
+    @media only screen and (min-width: 482px) {
+     .primary-navigation .primary-menu-container > ul > .menu-item {
+      display: flex;
+      padding-left: 14px;
+  }
+  .primary-navigation .primary-menu-container > ul > .menu-item:first-child {
+      display: flex;
+      padding-left: 0px;
+  }
+}
+
+
+@media only screen and (min-width: 768px) {
+ .itemdos {
+  float: right;
+  padding-top: 23px;
+}
+}
+
+@media only screen and (min-width: 990px) {
+ .section-count {
+  float: right;
+}
+.presupuestos {
+  padding-left: 30px;
+  padding-right: 100px;
+}
+.accordion-govco .card .card-body {
+  padding-left: 50px;
+}
+
+
+
+nav#site-navigation {
+  margin: 0 auto;
+  display: table;
+}
+p.n2-font-0b2dbb5cbcc153b9663e67f4f7b4941d-paragraph {
+  padding-left: 15%!important;
+}
+
+.cont-logos {
+  height: 130px;
+}
+.portal-minagricultura img {
+  max-width: 60%;
+  padding-top: 5%;
+}
+
+.container-pagina {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.containersuperior {
+  height: 110px;
+}
+
+.container-sitios .border-col {
+  border-left: 1px solid #CCCCCC;
+}
+
+footer.site-footer {
+  height: 168px;
+}
+
+.n2-font-fbafe5f6f8f5b60f8c0185b60a4c5acc-hover.n2-ss-item-content.n2-ss-text.n2-ow {
+  font-size: 3.813rem!important;
+  max-width: 80%;
+}
+
+.vce-row[data-vce-stretch-content=true] {
+  margin: 0 auto!important;
+  max-width: 1440px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.vce-row.vce-row--col-gap-30.container-full.vce-row-equal-height.vce-row-content--top {
+  padding-left: 20%;
+  padding-right: 0%;
+}
+
+.sub-menu {
+  background: #95ACEC!important;
+  border: none!important;
+  border-radius: 15px;
+  opacity: 0.9;
+}
+
+.sub-menu li {
+  background: #95ACEC!important;
+  border-radius: 25px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.menu-mapasitio .sub-menu {
+  background: transparent!important;
+}
+
+.menu-mapasitio .sub-menu li {
+  background: transparent!important;
+}
+
+.sub-menu li a {
+  color: #fff!important;
+  font-size: 0.938rem!important;
+  border-bottom: 1px solid #fff;
+  line-height: 7px!important;
+}
+
+.menu-mapasitio .sub-menu li a {
+  color: #000!important;
+}
+.sub-menu li:last-child a {
+  border: none;
+}
+
+.primary-navigation .sub-menu > .menu-item > .sub-menu li {
+  padding-left: 0px!important;
+  padding-right: 0px!important;
+}
+
+.headeruno {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+}
+
+@media only screen and (min-width: 968px) {
+	.primary-navigation .primary-menu-container > ul > .menu-item {
+		display: flex;
+		padding-left: 24px;
+	}
+}
+
+
+@media (min-width: 1200px) {
+	.container, .container-lg, .container-md, .container-sm, .container-xl {
+		max-width: 1200px;
+	}
+	header#masthead {
+		padding-left: 6%;
+		padding-right: 6%;
+	}
+
+	.gov-co-breadcrumb .breadcrumb-item {
+     max-width: 100%;
+ }
+}
+
+
+
+
+
+@media only screen and (max-width: 1200px) {
+    .section-blue {
+        font-size: 1rem!important;
+        padding-top: 50%!important;
+    }
+
+    .container-pagina {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .gov-co-footer-pie {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media only screen and (max-width: 990px) {
+	
+	p.n2-font-0b2dbb5cbcc153b9663e67f4f7b4941d-paragraph {
+		font-size: 1.2rem!important;
+		text-align: center!important;
+		padding-top: 20px;
+	}
+	.section-blue {
+		font-size: 1.5rem!important;
+		padding-top: 13%!important;
+	}
+
+	#mega-menu-wrap-primary .mega-menu-toggle {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+	}
+}
+
+@media only screen and (max-width: 998px) {
+
+    .tablas-presupuestos img {
+        max-width: 100%;
+    }
+
+    .n2-ss-margin {
+        margin: 0!important;
+    }
+
+    .sub-menu li a {
+      color: #000;
+  }
+
+  .textsitios {
+    text-align: center;
+}
+
+.titleBoletines {
+    text-align: center;
+    padding-left: 0%;
+}
+
+.sitios i {
+    padding-left: 0px!important;
+}
+
+div#el-ae564eb3 {
+    padding-left: 0px!important;
+}
+
+.titleBoletines {
+    font-size: 1.2rem!important;
+    padding-left: 0%!important;
+    line-height: 31px!important;
+}
+
+#mega-menu-wrap-primary .mega-menu-toggle {
+  background: #F4F6F7!important;
+}
+
+#mega-menu-wrap-primary .mega-menu-toggle .mega-toggle-block-0 .mega-toggle-animated-inner, #mega-menu-wrap-primary .mega-menu-toggle .mega-toggle-block-0 .mega-toggle-animated-inner::before, #mega-menu-wrap-primary .mega-menu-toggle .mega-toggle-block-0 .mega-toggle-animated-inner::after {
+  background-color: #3065C7;
+}
+
+#mega-menu-wrap-primary .mega-menu-toggle + #mega-menu-primary {
+  background-color: #F4F6F7;
+}
+.mega-menu-link {
+  color: #000!important;
+}
+
+#mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item.mega-toggle-on > a.mega-menu-link {
+  background-color: #F4F6F7;
+  font-weight: 700;
+}
+
+#mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-flyout ul.mega-sub-menu {
+ padding-left: 20px;
+}
+
+
+}
+
+@media only screen and (max-width: 768px) {
+
+    .title-h2 {
+        line-height: 30px!important;
+    }
+
+    .section-iconplay {
+        display: none;
+    }
+    .footer-logo-autoridad .col {
+      display: block;
+      margin-bottom: 50px;
+      margin-top: 30px;
+  }
+  .itemuno a, .itemdos a {
+      margin: 0 auto;
+      display: table;
+      padding-bottom: 20px;
+  }
+  ul#mega-menu-primary {
+      z-index: 999!important;
+  }
+
+  .row.cont-logos {
+      margin: 0 auto;
+      display: table;
+      padding-bottom: 30px;
+  }
+
+  #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item.mega-current-menu-item > a.mega-menu-link, #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item.mega-current-menu-ancestor > a.mega-menu-link, #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item.mega-current-page-ancestor > a.mega-menu-link {
+      color: #000;
+      background: #F4F6F7;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+	#mega-menu-wrap-primary .mega-menu-toggle {
+		background: #F4F6F7!important;
+	}
+	
+	#mega-menu-wrap-primary .mega-menu-toggle .mega-toggle-block-0 .mega-toggle-animated-inner, #mega-menu-wrap-primary .mega-menu-toggle .mega-toggle-block-0 .mega-toggle-animated-inner::before, #mega-menu-wrap-primary .mega-menu-toggle .mega-toggle-block-0 .mega-toggle-animated-inner::after {
+		background-color: #3065C7;
+	}
+	
+	#mega-menu-wrap-primary .mega-menu-toggle + #mega-menu-primary {
+		background-color: #F4F6F7;
+	}
+	.mega-menu-link {
+		color: #000!important;
+	}
+	
+	#mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item.mega-toggle-on > a.mega-menu-link {
+		background-color: #F4F6F7;
+      font-weight: 700;
+  }
+
+  #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-flyout ul.mega-sub-menu {
+     padding-left: 20px;
+ }
+}
+
+@media only screen and (max-width: 472px) {
+	span.govco-icon.govco-icon-language-en-n.lang-govco.ml-3.float-right.icon-language {
+		padding-right: 15%;
+	}
+}
+
+html {
+    overflow-x: hidden!important;
+}
+
+p {
+    text-align: justify;
+}
+
+.sp-pcp-post .sp-pcp-title, .sp-pcp-post .sp-pcp-title a {
+    text-transform: uppercase;
+}
+
+a.carousel-slider__post-title h2 {
+    text-transform: uppercase;
+}
+
+
+
+/******* estilos nuevo footer ***/
+
+
+p {
+ line-height: 1.5 !important;
+}
+
+.row > * {
+ padding-left: 0 !important;
+ margin-left: unset !important;
+}
+
+.row {
+ margin-left: 0 !important;
+}
+
+.row.col-xs-12.col-lg-7.govco-texto-sedes,
+.row.col-xs-12.col-lg-7.govco-network {
+ padding-left: 0 !important;
+ width: 100% !important;
+}
+
+.govco-network {
+  margin-left: 15px !important;
+  margin-top: 10px !important;
+}
+
+.govco-iconContainer {
+ display: inline-block !important;
+ width: auto !important;
+}
+.govco-links-container {
+ margin-bottom: 50px !important;
+ margin-top: 30px !important;
+}
+
+
+.govco-text-header-1 {
+ color: #00906B;
+ text-align: left;
+ font-size: 20px;
+ font-weight: 600;
+}
+
+.govco-text-header-2 {
+ color: #00906B;
+ text-align: left;
+ font-size: 16px;
+ font-weight: bold;
+ margin-bottom: 0 !important;
+}
+
+.govco-text-header-3 {
+ color: #3366cc;
+ text-align: left;
+ font-weight: bold;
+ margin-bottom: 0 !important;
+}
+
+
+.govco-data-front {
+ width: calc(100% - 400px);
+ margin-left: 200px !important;
+ -webkit-box-shadow: 50px 30px 0px -30px #00906B, -50px 30px 0px -30px #00906B,
+ 0px 20px 0px 0px #00906B, 50px 50px 0px -30px #00906B,
+ -50px 50px 0px -30px #00906B;
+ box-shadow: 500px 30px 0px -30px #00906B, -500px 30px 0px -30px #00906B,
+ 0px 20px 0px 0px #00906B, 50px 50px 0px -30px #00906B,
+ -50px 50px 0px -30px #00906B;
+ top: 0;
+ border: 2px solid #00906B;
+ border-radius: 10px;
+ opacity: 1;
+}
+
+.govco-logo-entidad {
+ height: 64px;
+ display: inline-block;
+ content: url(https://www.aunap.gov.co/wp-content/uploads/2021/07/logo.png);
+}
+
+.logo-facebook {
+ height: 20px;
+ display: inline-block;
+ content: url(https://www.aunap.gov.co/wp-content/uploads/2022/10/facebook-icon.png);
+}
+.logo-twitter {
+ height: 20px;
+ display: inline-block;
+ content: url(https://www.aunap.gov.co/wp-content/uploads/2022/10/twitter-icon.png);
+}
+.logo-instagram {
+ height: 20px;
+ display: inline-block;
+ content: url(https://www.aunap.gov.co/wp-content/uploads/2022/10/instagram-icon.png);
+}
+.logo-youtube {
+ height: 20px;
+ display: inline-block;
+ content: url(https://www.aunap.gov.co/wp-content/uploads/2022/10/youtube-icon.png);
+}
+
+
+
+
+.govco-footer-text {
+ margin-top: 50px !important;
+ margin-left: 80px !important;
+}
+.govco-nombre-entidad {
+ margin-bottom: 0px !important;
+}
+.govco-logo-div-a {
+ text-align: center !important;
+}
+
+
+
+@media (max-width: 568px) {
+
+    .govco-data-front {
+     width: calc(100% - 40px);
+     margin-left: 20px !important;
+     -webkit-box-shadow: 50px 30px 0px -30px #00906B, -50px 30px 0px -30px #00906B,
+     0px 20px 0px 0px #00906B, 50px 50px 0px -30px #00906B,
+     -50px 50px 0px -30px #00906B;
+     box-shadow: 50px 30px 0px -30px #00906B, -50px 30px 0px -30px #00906B,
+     0px 20px 0px 0px #00906B, 50px 50px 0px -30px #00906B,
+     -50px 50px 0px -30px #00906B;
+     top: 0;
+     border: 2px solid #00906B;
+     border-radius: 10px;
+     opacity: 1;
+ }
+
+
+
+ .govco-sedes {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 5px !important;
+}
+
+.govco-sede-info {
+  margin-left: 0 !important;
+}
+
+.govco-text-header-1 {
+  margin-left: 15px !important;
+  color: ffffff!important;
+}
+
+.govco-logo-entidad {
+  height: 65px;
+}
+
+.govco-footer-text {
+  margin: 0 !important;
+  margin-top: 50px !important;
+}
+
+.govco-nombre-entidad {
+  margin-left: 0px !important;
+  width: 100% !important;
+}
+
+.govco-logo-div-a {
+  margin-left: 0 !important;
+}
+
+.govco-texto-sedes,
+.govco-links-directorio,
+.govco-listado-sedes,
+.govco-links-container {
+  margin-left: 15px !important;
+  margin-top: 20px !important;
+}
+
+.govco-texto-sedes,
+.govco-network {
+  padding: unset !important;
+}
+
+
+.govco-iconContainer {
+  margin-top: 20px !important;
+  display: block !important;
+  width: 100% !important;
+}
+
+.govco-network {
+  margin-left: 15px !important;
+  margin-top: 10px !important;
+}
+
+.govco-text-header-3 {
+  margin-top: 20px !important;
+}
+
+.govco-link-container {
+  display: block !important;
+  width: 100% !important;
+}
+
+.govco-mostrar {
+  display: unset !important;
+}
+
+.govco-logo-container {
+  text-align: center !important;
+  margin-left: unset !important;
+}
+
+.govco-texto-sedes {
+  padding-right: 20px !important;
+}
+}
+
+

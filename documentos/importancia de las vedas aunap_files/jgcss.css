@@ -1,0 +1,73 @@
+.karen {
+	background: red;
+}
+
+:root {
+  --panel-color: rgba(0, 0, 0, 0.135);
+   --panel-padding: 30px 8% 30px;
+}
+
+.panel {
+  background: #00906B;
+  border-radius: var(--panel-border-width);
+  padding: var(--panel-border-width);
+  text-align: left;
+}
+
+.panel__header, 
+.panel__content {
+  padding: var(--panel-padding);
+}
+
+.panel__title {
+  line-height: 2;
+   background: #00906B;
+  
+}
+
+.panel__content {
+  background: #E5F4F0;
+  Color: #00402F;
+  text-align: left;
+  display: block;
+  margin : 0;
+}
+
+.panel__contentGris {
+  background: #00402F;
+  Color: #000000;
+  text-align: left;
+  display: block;
+  margin : 0;
+}
+
+#buscarIzq {float:left;}
+#buscarDer {float:right;}
+
+
+.tituloTab {
+    background: #ededed;
+    padding: 10px;
+    color: #215A9A;
+    border-bottom: 3px solid #fff;
+    width: 100%;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+}
+
+@media only screen and (min-width: 320px){
+    .headline-m-govco{
+        font-size:10px!important;
+    }
+   
+}
+
+.accordion-govco .card .card-body2 {
+    padding-left: 0px;
+}
+
+
+/*------------------------- stilos formulario----------------------------------------------- */
+
+/*-------------------------------------------------------------------------------------------------*/
